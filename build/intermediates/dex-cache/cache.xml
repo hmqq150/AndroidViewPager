@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="074f87985ec3ba53f7401f09320ec7ff4699cbb0">
+        <dex dex="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c8b58e37081e7fe272142b3c910d4194ef8ef99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f56d6155169f3601e5370b94802c88b27c13469d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-jack/.android/build-cache/1b69185dbee058fb21d975fcecf1de667131e913/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bd871b129c4b4eb41e5539b078e345a120c38bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-jack/.android/build-cache/eb82fd9d0f8c50f5b725f9060b2673b30157e398/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfaf8a8981611241dcbd044d1f1f36ee13b6acd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-jack/.android/build-cache/b1c8fcda983f2db7c13e833382babd4e7580f5a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/mac-jack/Downloads/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea72ad05ec77b7a1691b73e7b9a4cfbab0fef53a/classes.dex" />
+    </item>
+
+</items>
